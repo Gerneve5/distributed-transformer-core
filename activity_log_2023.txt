@@ -3,3 +3,4 @@ Commit at 2023-01-03T16:03:06: Improve error handling
 Commit at 2023-01-04T12:05:07: Initial research on model architecture
 Commit at 2023-01-04T12:21:59: Update dependencies
 Commit at 2023-01-05T09:54:42: Update README with new benchmarks
+Commit at 2023-01-11T10:32:17: Refactor core logic for better performance
