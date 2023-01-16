@@ -7,3 +7,4 @@ Commit at 2023-01-11T10:32:17: Refactor core logic for better performance
 Commit at 2023-01-12T12:49:17: Update README with new benchmarks
 Commit at 2023-01-12T15:29:23: Update dependencies
 Commit at 2023-01-16T11:37:43: Add visualization tools
+Commit at 2023-01-16T13:18:52: Optimize memory usage
