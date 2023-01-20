@@ -10,3 +10,4 @@ Commit at 2023-01-16T11:37:43: Add visualization tools
 Commit at 2023-01-16T13:18:52: Optimize memory usage
 Commit at 2023-01-17T12:22:46: Update dependencies
 Commit at 2023-01-19T09:00:40: Clean up code and remove unused imports
+Commit at 2023-01-20T12:14:16: Update documentation and examples
