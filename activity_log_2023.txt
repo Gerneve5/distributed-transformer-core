@@ -16,3 +16,4 @@ Commit at 2023-01-24T11:13:58: Update README with new benchmarks
 Commit at 2023-01-25T10:48:48: Update documentation and examples
 Commit at 2023-01-27T16:35:54: Add visualization tools
 Commit at 2023-01-30T14:18:10: Drafting core components
+Commit at 2023-01-31T17:38:07: Update dependencies
