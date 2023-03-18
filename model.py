@@ -108,4 +108,8 @@ class TransformerBlock(nn.Module):
 # Line 46: Placeholder for extended implementation details
 # Line 47: Placeholder for extended implementation details
 # Line 48: Placeholder for extended implementation details
-# Line 49: Placeholder for extended implementation details
+# Line 49: Placeholder for extended implementation detailsimport torch
+import torch.nn as nn
+import math
+
+class PositionalEncoding(nn.Module):
