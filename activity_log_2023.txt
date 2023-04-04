@@ -44,3 +44,4 @@ Commit at 2023-03-23T10:27:08: Update dependencies
 Commit at 2023-03-25T12:06:10: Setting up development environment
 Commit at 2023-03-27T18:12:39: Fix edge case in sensor fusion
 Commit at 2023-03-29T10:36:18: Implement new optimization algorithm
+Commit at 2023-04-04T16:53:41: Update documentation and examples
