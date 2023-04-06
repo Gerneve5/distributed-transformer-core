@@ -128,3 +128,8 @@ class PositionalEncoding(nn.Module):
         return self.dropout(x)
 
 class MultiHeadAttention(nn.Module):
+    def __init__(self, d_model, num_heads):
+        super().__init__()
+        self.d_model = d_model
+        self.num_heads = num_heads
+        self.d_k = d_model // num_heads
