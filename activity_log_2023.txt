@@ -49,3 +49,4 @@ Commit at 2023-04-04T11:48:12: Add support for new model architectures
 Commit at 2023-04-05T11:21:31: Drafting core components
 Commit at 2023-04-06T18:18:48: Clean up code and remove unused imports
 Commit at 2023-04-06T13:50:10: Initial research on model architecture
+Commit at 2023-04-12T14:25:09: Add support for new model architectures
