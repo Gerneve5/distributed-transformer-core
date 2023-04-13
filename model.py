@@ -138,3 +138,8 @@ class MultiHeadAttention(nn.Module):
         self.w_v = nn.Linear(d_model, d_model)
         self.w_o = nn.Linear(d_model, d_model)
     def forward(self, q, k, v, mask=None):
+        batch_size = q.size(0)
+        q = self.w_q(q).view(batch_size, -1, self.num_heads, self.d_k).transpose(1, 2)
+        k = self.w_k(k).view(batch_size, -1, self.num_heads, self.d_k).transpose(1, 2)
+        v = self.w_v(v).view(batch_size, -1, self.num_heads, self.d_k).transpose(1, 2)
+        scores = torch.matmul(q, k.transpose(-2, -1)) / math.sqrt(self.d_k)
