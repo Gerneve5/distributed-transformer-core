@@ -143,3 +143,8 @@ class MultiHeadAttention(nn.Module):
         k = self.w_k(k).view(batch_size, -1, self.num_heads, self.d_k).transpose(1, 2)
         v = self.w_v(v).view(batch_size, -1, self.num_heads, self.d_k).transpose(1, 2)
         scores = torch.matmul(q, k.transpose(-2, -1)) / math.sqrt(self.d_k)
+        if mask is not None: scores = scores.masked_fill(mask == 0, -1e9)
+        attn = torch.softmax(scores, dim=-1)
+        output = torch.matmul(attn, v)
+        output = output.transpose(1, 2).contiguous().view(batch_size, -1, self.d_model)
+        return self.w_o(output)
