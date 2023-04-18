@@ -52,3 +52,4 @@ Commit at 2023-04-06T13:50:10: Initial research on model architecture
 Commit at 2023-04-12T14:25:09: Add support for new model architectures
 Commit at 2023-04-13T14:03:20: Clean up code and remove unused imports
 Commit at 2023-04-17T16:58:24: Setting up development environment
+Commit at 2023-04-18T13:37:00: Initial research on model architecture
