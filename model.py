@@ -148,3 +148,8 @@ class MultiHeadAttention(nn.Module):
         output = torch.matmul(attn, v)
         output = output.transpose(1, 2).contiguous().view(batch_size, -1, self.d_model)
         return self.w_o(output)
+
+class Transformer(nn.Module):
+    def __init__(self, src_vocab_size, tgt_vocab_size, d_model, num_heads, d_ff, num_layers, dropout=0.1):
+        super().__init__()
+        self.src_embed = nn.Sequential(nn.Embedding(src_vocab_size, d_model), PositionalEncoding(d_model, dropout))
