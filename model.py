@@ -153,3 +153,8 @@ class Transformer(nn.Module):
     def __init__(self, src_vocab_size, tgt_vocab_size, d_model, num_heads, d_ff, num_layers, dropout=0.1):
         super().__init__()
         self.src_embed = nn.Sequential(nn.Embedding(src_vocab_size, d_model), PositionalEncoding(d_model, dropout))
+        self.tgt_embed = nn.Sequential(nn.Embedding(tgt_vocab_size, d_model), PositionalEncoding(d_model, dropout))
+        self.encoder = nn.ModuleList([MultiHeadAttention(d_model, num_heads) for _ in range(num_layers)])
+        self.decoder = nn.ModuleList([MultiHeadAttention(d_model, num_heads) for _ in range(num_layers)])
+        self.generator = nn.Linear(d_model, tgt_vocab_size)
+    def forward(self, src, tgt):
