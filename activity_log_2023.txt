@@ -58,3 +58,4 @@ Commit at 2023-04-20T16:05:48: Fix minor bug in data processing
 Commit at 2023-04-21T16:11:42: Optimize memory usage
 Commit at 2023-04-21T16:32:51: Drafting core components
 Commit at 2023-04-24T14:09:09: Refactor training loop
+Commit at 2023-04-27T16:58:36: Refactor training loop
