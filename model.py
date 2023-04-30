@@ -158,3 +158,5 @@ class Transformer(nn.Module):
         self.decoder = nn.ModuleList([MultiHeadAttention(d_model, num_heads) for _ in range(num_layers)])
         self.generator = nn.Linear(d_model, tgt_vocab_size)
     def forward(self, src, tgt):
+        return self.generator(self.src_embed(src))
+
