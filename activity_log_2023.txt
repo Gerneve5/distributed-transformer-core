@@ -60,3 +60,4 @@ Commit at 2023-04-21T16:32:51: Drafting core components
 Commit at 2023-04-24T14:09:09: Refactor training loop
 Commit at 2023-04-27T16:58:36: Refactor training loop
 Commit at 2023-04-28T12:06:13: Update documentation and examples
+Commit at 2023-05-03T11:18:54: Clean up code and remove unused imports
