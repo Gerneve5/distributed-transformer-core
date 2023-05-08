@@ -63,3 +63,4 @@ Commit at 2023-04-28T12:06:13: Update documentation and examples
 Commit at 2023-05-03T11:18:54: Clean up code and remove unused imports
 Commit at 2023-05-04T14:48:10: Refactor core logic for better performance
 Commit at 2023-05-08T18:10:27: Update README with new benchmarks
+Commit at 2023-05-08T16:16:39: Optimize memory usage
