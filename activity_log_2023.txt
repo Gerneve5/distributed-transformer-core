@@ -77,3 +77,4 @@ Commit at 2023-05-25T11:51:50: Drafting core components
 Commit at 2023-05-26T18:34:43: Fix minor bug in data processing
 Commit at 2023-05-31T18:24:16: Update documentation and examples
 Commit at 2023-05-31T17:44:23: Refactor training loop
+Commit at 2023-06-01T15:34:49: Implement new optimization algorithm
