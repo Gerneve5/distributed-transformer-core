@@ -81,3 +81,4 @@ Commit at 2023-06-01T15:34:49: Implement new optimization algorithm
 Commit at 2023-06-02T18:12:50: Optimize memory usage
 Commit at 2023-06-05T15:02:24: Drafting core components
 Commit at 2023-06-06T10:47:29: Update dependencies
+Commit at 2023-06-12T13:00:52: Refactor training loop
