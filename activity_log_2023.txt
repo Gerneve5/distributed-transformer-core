@@ -90,3 +90,4 @@ Commit at 2023-06-19T14:38:35: Add support for new model architectures
 Commit at 2023-06-20T18:56:50: Refactor training loop
 Commit at 2023-06-26T10:07:23: Drafting core components
 Commit at 2023-06-26T09:12:03: Add visualization tools
+Commit at 2023-06-28T13:32:13: Update documentation and examples
