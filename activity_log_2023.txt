@@ -100,3 +100,4 @@ Commit at 2023-07-10T18:07:00: Clean up code and remove unused imports
 Commit at 2023-07-11T13:10:48: Initial research on model architecture
 Commit at 2023-07-14T13:39:31: Fix edge case in sensor fusion
 Commit at 2023-07-14T18:07:06: Drafting core components
+Commit at 2023-07-17T16:05:16: Implement new optimization algorithm
