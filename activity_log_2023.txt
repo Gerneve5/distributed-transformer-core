@@ -107,3 +107,4 @@ Commit at 2023-07-19T10:57:32: Fix edge case in sensor fusion
 Commit at 2023-07-20T10:12:40: Add visualization tools
 Commit at 2023-07-21T13:34:20: Drafting core components
 Commit at 2023-07-25T18:21:21: Fix minor bug in data processing
+Commit at 2023-08-01T12:54:45: Update dependencies
