@@ -114,3 +114,4 @@ Commit at 2023-08-08T15:45:29: Drafting core components
 Commit at 2023-08-10T18:14:55: Fix edge case in sensor fusion
 Commit at 2023-08-11T14:45:06: Add support for new model architectures
 Commit at 2023-08-15T10:08:08: Add support for new model architectures
+Commit at 2023-08-16T15:14:57: Clean up code and remove unused imports
