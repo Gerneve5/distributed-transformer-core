@@ -131,3 +131,4 @@ Commit at 2023-09-11T09:15:10: Refactor core logic for better performance
 Commit at 2023-09-13T12:37:05: Update dependencies
 Commit at 2023-09-14T18:27:09: Add support for new model architectures
 Commit at 2023-09-18T17:06:36: Refactor training loop
+Commit at 2023-09-20T16:48:16: Add unit tests for new features
