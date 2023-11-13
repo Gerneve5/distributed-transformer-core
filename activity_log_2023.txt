@@ -165,3 +165,4 @@ Commit at 2023-11-06T11:54:48: Refactor training loop
 Commit at 2023-11-09T10:50:49: Refactor training loop
 Commit at 2023-11-10T16:12:25: Update dependencies
 Commit at 2023-11-10T11:36:16: Refactor training loop
+Commit at 2023-11-13T15:39:28: Initial research on model architecture
