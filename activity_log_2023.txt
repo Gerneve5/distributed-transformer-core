@@ -167,3 +167,4 @@ Commit at 2023-11-10T16:12:25: Update dependencies
 Commit at 2023-11-10T11:36:16: Refactor training loop
 Commit at 2023-11-13T15:39:28: Initial research on model architecture
 Commit at 2023-11-15T15:14:24: Drafting core components
+Commit at 2023-11-17T17:39:06: Enhance logging and monitoring
