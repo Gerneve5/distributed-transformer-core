@@ -172,3 +172,4 @@ Commit at 2023-11-17T15:16:11: Refactor core logic for better performance
 Commit at 2023-11-20T18:16:16: Setting up development environment
 Commit at 2023-11-22T15:45:06: Update dependencies
 Commit at 2023-11-23T15:42:56: Update README with new benchmarks
+Commit at 2023-11-27T13:21:10: Add support for new model architectures
