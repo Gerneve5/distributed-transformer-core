@@ -203,3 +203,4 @@ Commit at 2024-01-10T18:36:06: Update documentation and examples
 Commit at 2024-01-11T13:37:50: Refactor training loop
 Commit at 2024-01-15T13:05:46: Setting up development environment
 Commit at 2024-01-16T14:44:35: Refactor core logic for better performance
+Commit at 2024-01-17T12:53:53: Refactor core logic for better performance
