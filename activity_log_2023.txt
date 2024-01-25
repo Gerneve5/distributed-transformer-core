@@ -207,3 +207,4 @@ Commit at 2024-01-17T12:53:53: Refactor core logic for better performance
 Commit at 2024-01-19T18:14:00: Add unit tests for new features
 Commit at 2024-01-22T14:26:28: Update dependencies
 Commit at 2024-01-24T14:40:35: Add visualization tools
+Commit at 2024-01-25T15:57:31: Update README with new benchmarks
