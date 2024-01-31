@@ -25,3 +25,4 @@ Commit at 2024-01-26T11:21:22: Improve model convergence
 Commit at 2024-01-26T11:21:44: Add visualization tools
 Commit at 2024-01-29T17:06:45: Refactor core logic for better performance
 Commit at 2024-01-30T09:51:49: Update documentation and examples
+Commit at 2024-01-31T14:12:15: Update dependencies
