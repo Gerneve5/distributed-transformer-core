@@ -223,3 +223,4 @@ Commit at 2024-02-14T11:33:46: Initial research on model architecture
 Commit at 2024-02-14T09:23:21: Fix minor bug in data processing
 Commit at 2024-02-15T16:04:50: Implement new optimization algorithm
 Commit at 2024-02-16T13:26:46: Optimize memory usage
+Commit at 2024-02-16T15:12:40: Update README with new benchmarks
