@@ -39,3 +39,4 @@ Commit at 2024-02-16T09:15:11: Refactor core logic for better performance
 Commit at 2024-02-19T17:17:49: Improve model convergence
 Commit at 2024-02-20T16:19:08: Add support for mixed precision training
 Commit at 2024-02-20T12:26:12: Refactor core logic for better performance
+Commit at 2024-02-21T11:35:07: Fix minor bug in data processing
