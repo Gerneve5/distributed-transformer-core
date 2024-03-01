@@ -48,3 +48,4 @@ Commit at 2024-02-27T12:21:28: Refactor training loop
 Commit at 2024-02-27T14:23:04: Add support for mixed precision training
 Commit at 2024-02-29T18:41:15: Add support for mixed precision training
 Commit at 2024-03-01T15:49:37: Optimize memory usage
+Commit at 2024-03-01T17:17:45: Add visualization tools
