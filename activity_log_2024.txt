@@ -55,3 +55,4 @@ Commit at 2024-03-07T12:12:46: Refactor training loop
 Commit at 2024-03-08T10:54:10: Add support for new model architectures
 Commit at 2024-03-08T17:33:54: Refactor training loop
 Commit at 2024-03-11T12:36:24: Fix edge case in sensor fusion
+Commit at 2024-03-12T10:46:34: Add support for mixed precision training
