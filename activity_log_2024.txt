@@ -62,3 +62,4 @@ Commit at 2024-03-13T15:25:59: Add visualization tools
 Commit at 2024-03-14T14:59:50: Add unit tests for new features
 Commit at 2024-03-18T14:41:30: Update README with new benchmarks
 Commit at 2024-03-19T11:43:49: Update documentation and examples
+Commit at 2024-03-20T10:16:21: Refactor training loop
