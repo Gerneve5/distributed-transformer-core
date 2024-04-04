@@ -75,3 +75,4 @@ Commit at 2024-03-28T13:56:14: Update documentation and examples
 Commit at 2024-03-28T16:52:59: Improve model convergence
 Commit at 2024-03-29T10:49:21: Implement new optimization algorithm
 Commit at 2024-03-29T15:39:03: Fix minor bug in data processing
+Commit at 2024-04-04T18:47:23: Refactor core logic for better performance
