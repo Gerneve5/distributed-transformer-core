@@ -79,3 +79,4 @@ Commit at 2024-04-04T18:47:23: Refactor core logic for better performance
 Commit at 2024-04-04T11:27:07: Add support for mixed precision training
 Commit at 2024-04-05T18:15:19: Update documentation and examples
 Commit at 2024-04-05T09:40:20: Implement new optimization algorithm
+Commit at 2024-04-08T11:30:04: Fix edge case in sensor fusion
