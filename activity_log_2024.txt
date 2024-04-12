@@ -85,3 +85,4 @@ Commit at 2024-04-10T16:43:37: Update documentation and examples
 Commit at 2024-04-10T16:57:30: Refactor training loop
 Commit at 2024-04-11T18:17:05: Update hyperparameter tuning scripts
 Commit at 2024-04-11T12:17:13: Fix minor bug in data processing
+Commit at 2024-04-12T12:21:05: Update documentation and examples
