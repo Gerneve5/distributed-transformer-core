@@ -228,3 +228,4 @@ Commit at 2024-02-23T13:43:40: Fix minor bug in data processing
 Commit at 2024-02-26T11:21:38: Refactor training loop
 Commit at 2024-02-29T13:04:13: Update README with new benchmarks
 Commit at 2024-03-24T11:47:44: Implement new optimization algorithm
+Commit at 2024-04-13T15:54:18: Add unit tests for new features
