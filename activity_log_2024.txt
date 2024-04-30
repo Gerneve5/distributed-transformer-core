@@ -102,3 +102,4 @@ Commit at 2024-04-26T13:34:27: Fix minor bug in data processing
 Commit at 2024-04-26T17:37:43: Refactor training loop
 Commit at 2024-04-29T18:06:19: Update dependencies
 Commit at 2024-04-29T11:50:30: Refactor training loop
+Commit at 2024-04-30T14:14:21: Add visualization tools
