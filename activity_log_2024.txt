@@ -105,3 +105,4 @@ Commit at 2024-04-29T11:50:30: Refactor training loop
 Commit at 2024-04-30T14:14:21: Add visualization tools
 Commit at 2024-04-30T12:25:31: Add support for new model architectures
 Commit at 2024-04-30T09:12:27: Update README with new benchmarks
+Commit at 2024-05-01T17:17:17: Update hyperparameter tuning scripts
