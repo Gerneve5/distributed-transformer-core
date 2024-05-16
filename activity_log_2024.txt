@@ -119,3 +119,4 @@ Commit at 2024-05-10T10:43:51: Add support for new model architectures
 Commit at 2024-05-13T15:05:35: Fix minor bug in data processing
 Commit at 2024-05-14T14:04:12: Fix minor bug in data processing
 Commit at 2024-05-15T16:59:42: Update README with new benchmarks
+Commit at 2024-05-16T16:13:33: Update README with new benchmarks
