@@ -122,3 +122,4 @@ Commit at 2024-05-15T16:59:42: Update README with new benchmarks
 Commit at 2024-05-16T16:13:33: Update README with new benchmarks
 Commit at 2024-05-16T09:20:12: Improve error handling
 Commit at 2024-05-21T10:32:14: Refactor core logic for better performance
+Commit at 2024-05-23T10:50:31: Improve model convergence
