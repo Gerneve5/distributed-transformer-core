@@ -133,3 +133,4 @@ Commit at 2024-05-30T11:27:25: Implement new optimization algorithm
 Commit at 2024-05-30T14:43:51: Optimize memory usage
 Commit at 2024-05-30T13:10:32: Update hyperparameter tuning scripts
 Commit at 2024-05-31T13:18:49: Update hyperparameter tuning scripts
+Commit at 2024-06-03T14:37:36: Improve error handling
