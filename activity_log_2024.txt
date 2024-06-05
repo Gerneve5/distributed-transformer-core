@@ -137,3 +137,4 @@ Commit at 2024-06-03T14:37:36: Improve error handling
 Commit at 2024-06-04T12:09:21: Fix minor bug in data processing
 Commit at 2024-06-04T17:47:59: Improve model convergence
 Commit at 2024-06-05T15:40:41: Add unit tests for new features
+Commit at 2024-06-05T14:41:45: Update README with new benchmarks
