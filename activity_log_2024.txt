@@ -148,3 +148,4 @@ Commit at 2024-06-12T11:11:06: Refactor training loop
 Commit at 2024-06-12T18:36:36: Improve model convergence
 Commit at 2024-06-13T18:59:05: Clean up code and remove unused imports
 Commit at 2024-06-14T14:13:44: Fix edge case in sensor fusion
+Commit at 2024-06-17T15:41:59: Refactor training loop
