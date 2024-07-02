@@ -160,3 +160,4 @@ Commit at 2024-06-26T16:12:47: Add unit tests for new features
 Commit at 2024-06-28T16:06:35: Clean up code and remove unused imports
 Commit at 2024-06-28T15:48:25: Refactor core logic for better performance
 Commit at 2024-07-02T10:42:17: Improve model convergence
+Commit at 2024-07-02T10:47:57: Update documentation and examples
