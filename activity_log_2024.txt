@@ -174,3 +174,4 @@ Commit at 2024-07-11T13:51:13: Implement new optimization algorithm
 Commit at 2024-07-12T09:27:14: Fix edge case in sensor fusion
 Commit at 2024-07-12T14:23:41: Update dependencies
 Commit at 2024-07-16T13:36:46: Add unit tests for new features
+Commit at 2024-07-17T13:13:02: Update README with new benchmarks
