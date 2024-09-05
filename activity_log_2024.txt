@@ -206,3 +206,4 @@ Commit at 2024-08-30T09:27:41: Add support for new model architectures
 Commit at 2024-09-02T09:14:39: Refactor training loop
 Commit at 2024-09-04T10:26:13: Add visualization tools
 Commit at 2024-09-05T16:58:34: Refactor core logic for better performance
+Commit at 2024-09-05T10:15:21: Update README with new benchmarks
