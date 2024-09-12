@@ -214,3 +214,4 @@ Commit at 2024-09-10T13:26:13: Update README with new benchmarks
 Commit at 2024-09-11T09:21:42: Update README with new benchmarks
 Commit at 2024-09-11T09:57:44: Clean up code and remove unused imports
 Commit at 2024-09-12T10:02:39: Fix minor bug in data processing
+Commit at 2024-09-12T14:29:36: Add visualization tools
