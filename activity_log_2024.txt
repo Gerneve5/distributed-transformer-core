@@ -216,3 +216,4 @@ Commit at 2024-09-11T09:57:44: Clean up code and remove unused imports
 Commit at 2024-09-12T10:02:39: Fix minor bug in data processing
 Commit at 2024-09-12T14:29:36: Add visualization tools
 Commit at 2024-09-13T12:54:19: Add visualization tools
+Commit at 2024-09-16T11:51:52: Improve model convergence
