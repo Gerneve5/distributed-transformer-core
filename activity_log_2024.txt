@@ -222,3 +222,4 @@ Commit at 2024-09-17T12:28:54: Implement new optimization algorithm
 Commit at 2024-09-18T12:11:27: Improve error handling
 Commit at 2024-09-19T11:35:55: Improve model convergence
 Commit at 2024-09-19T14:10:14: Fix minor bug in data processing
+Commit at 2024-09-20T11:57:29: Refactor training loop
