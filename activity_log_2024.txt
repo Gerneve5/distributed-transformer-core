@@ -225,3 +225,4 @@ Commit at 2024-09-19T14:10:14: Fix minor bug in data processing
 Commit at 2024-09-20T11:57:29: Refactor training loop
 Commit at 2024-09-22T18:35:48: Refactor training loop
 Commit at 2024-09-23T09:41:42: Refactor core logic for better performance
+Commit at 2024-09-23T13:28:52: Add visualization tools
