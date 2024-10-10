@@ -241,3 +241,4 @@ Commit at 2024-10-08T16:26:44: Add support for new model architectures
 Commit at 2024-10-09T18:29:07: Update documentation and examples
 Commit at 2024-10-09T10:57:35: Refactor core logic for better performance
 Commit at 2024-10-10T17:21:00: Update README with new benchmarks
+Commit at 2024-10-10T10:08:47: Clean up code and remove unused imports
