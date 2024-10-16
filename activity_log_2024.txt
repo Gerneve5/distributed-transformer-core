@@ -247,3 +247,4 @@ Commit at 2024-10-14T11:02:08: Refactor training loop
 Commit at 2024-10-14T11:34:12: Update dependencies
 Commit at 2024-10-15T12:00:01: Improve model convergence
 Commit at 2024-10-16T11:46:41: Clean up code and remove unused imports
+Commit at 2024-10-16T14:01:10: Fix minor bug in data processing
