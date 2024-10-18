@@ -250,3 +250,4 @@ Commit at 2024-10-16T11:46:41: Clean up code and remove unused imports
 Commit at 2024-10-16T14:01:10: Fix minor bug in data processing
 Commit at 2024-10-17T16:21:11: Update hyperparameter tuning scripts
 Commit at 2024-10-17T18:56:24: Fix minor bug in data processing
+Commit at 2024-10-18T16:09:57: Optimize memory usage
