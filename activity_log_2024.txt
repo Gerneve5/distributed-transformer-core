@@ -254,3 +254,4 @@ Commit at 2024-10-18T16:09:57: Optimize memory usage
 Commit at 2024-10-23T14:53:50: Fix edge case in sensor fusion
 Commit at 2024-10-24T14:23:12: Update README with new benchmarks
 Commit at 2024-10-25T15:18:04: Update README with new benchmarks
+Commit at 2024-10-26T09:16:35: Add support for new model architectures
