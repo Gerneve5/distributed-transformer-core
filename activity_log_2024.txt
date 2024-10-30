@@ -258,3 +258,4 @@ Commit at 2024-10-26T09:16:35: Add support for new model architectures
 Commit at 2024-10-29T13:56:14: Add unit tests for new features
 Commit at 2024-10-29T16:47:00: Clean up code and remove unused imports
 Commit at 2024-10-30T14:43:46: Add support for new model architectures
+Commit at 2024-10-30T11:32:34: Add support for new model architectures
