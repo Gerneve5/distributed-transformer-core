@@ -3,3 +3,4 @@ Commit at 2024-11-06T12:41:28: Add unit tests for new features
 Commit at 2024-11-06T17:23:13: Add support for new model architectures
 Commit at 2024-11-06T15:51:55: Refactor core logic for better performance
 Commit at 2024-11-07T15:44:10: Add support for new model architectures
+Commit at 2024-11-08T11:19:24: Refactor core logic for better performance
