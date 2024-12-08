@@ -27,3 +27,4 @@ Commit at 2024-12-03T15:31:46: Update documentation and examples
 Commit at 2024-12-04T09:36:35: Refactor core logic for better performance
 Commit at 2024-12-04T09:05:24: Enhance logging and monitoring
 Commit at 2024-12-05T11:10:46: Update documentation and examples
+Commit at 2024-12-08T13:38:22: Update README with new benchmarks
