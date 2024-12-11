@@ -35,3 +35,4 @@ Commit at 2024-12-10T18:48:01: Update documentation and examples
 Commit at 2024-12-10T13:31:05: Refactor core logic for better performance
 Commit at 2024-12-10T17:18:35: Refactor training loop
 Commit at 2024-12-11T11:50:14: Add support for new model architectures
+Commit at 2024-12-11T16:09:26: Optimize memory usage
