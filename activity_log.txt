@@ -50,3 +50,4 @@ Commit at 2024-12-23T16:50:52: Add unit tests for new features
 Commit at 2024-12-24T18:32:41: Refactor core logic for better performance
 Commit at 2024-12-24T09:20:30: Refactor training loop
 Commit at 2024-12-25T16:53:36: Update dependencies
+Commit at 2024-12-26T17:35:10: Update README with new benchmarks
