@@ -52,3 +52,4 @@ Commit at 2024-12-24T09:20:30: Refactor training loop
 Commit at 2024-12-25T16:53:36: Update dependencies
 Commit at 2024-12-26T17:35:10: Update README with new benchmarks
 Commit at 2024-12-30T14:57:01: Add support for new model architectures
+Commit at 2024-12-30T11:57:59: Refactor training loop
