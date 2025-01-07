@@ -63,3 +63,4 @@ Commit at 2025-01-03T15:10:32: Add support for new model architectures
 Commit at 2025-01-03T13:41:42: Optimize memory usage
 Commit at 2025-01-06T11:52:32: Add unit tests for new features
 Commit at 2025-01-07T17:26:30: Add unit tests for new features
+Commit at 2025-01-07T16:20:38: Refactor training loop
