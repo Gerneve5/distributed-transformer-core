@@ -66,3 +66,4 @@ Commit at 2025-01-07T17:26:30: Add unit tests for new features
 Commit at 2025-01-07T16:20:38: Refactor training loop
 Commit at 2025-01-07T17:21:53: Refactor core logic for better performance
 Commit at 2025-01-08T17:12:57: Refactor training loop
+Commit at 2025-01-09T16:05:57: Clean up code and remove unused imports
