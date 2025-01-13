@@ -69,3 +69,4 @@ Commit at 2025-01-08T17:12:57: Refactor training loop
 Commit at 2025-01-09T16:05:57: Clean up code and remove unused imports
 Commit at 2025-01-10T14:37:10: Refactor training loop
 Commit at 2025-01-10T16:50:38: Add support for new model architectures
+Commit at 2025-01-13T13:48:39: Refactor training loop
