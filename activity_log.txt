@@ -77,3 +77,4 @@ Commit at 2025-01-16T15:27:35: Update README with new benchmarks
 Commit at 2025-01-16T18:40:47: Add unit tests for new features
 Commit at 2025-01-17T11:24:49: Add unit tests for new features
 Commit at 2025-01-17T14:31:26: Improve error handling
+Commit at 2025-01-17T12:13:14: Clean up code and remove unused imports
