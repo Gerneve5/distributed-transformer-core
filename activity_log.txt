@@ -95,3 +95,4 @@ Commit at 2025-01-28T18:55:59: Add unit tests for new features
 Commit at 2025-01-30T13:17:25: Clean up code and remove unused imports
 Commit at 2025-01-30T11:45:11: Update documentation and examples
 Commit at 2025-01-31T14:13:58: Clean up code and remove unused imports
+Commit at 2025-01-31T18:53:55: Update README with new benchmarks
