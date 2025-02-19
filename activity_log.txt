@@ -114,3 +114,4 @@ Commit at 2025-02-13T12:40:43: Add support for new model architectures
 Commit at 2025-02-14T18:30:01: Refactor core logic for better performance
 Commit at 2025-02-17T10:38:12: Update dependencies
 Commit at 2025-02-17T11:55:46: Add support for new model architectures
+Commit at 2025-02-19T09:24:05: Refactor training loop
