@@ -130,3 +130,4 @@ Commit at 2025-03-03T10:45:33: Update dependencies
 Commit at 2025-03-04T11:59:49: Update README with new benchmarks
 Commit at 2025-03-04T12:46:35: Update dependencies
 Commit at 2025-03-05T18:30:46: Fix edge case in sensor fusion
+Commit at 2025-03-07T10:22:49: Add support for new model architectures
