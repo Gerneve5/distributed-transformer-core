@@ -142,3 +142,4 @@ Commit at 2025-03-14T15:41:28: Fix edge case in sensor fusion
 Commit at 2025-03-19T14:22:48: Update README with new benchmarks
 Commit at 2025-03-19T13:28:32: Fix edge case in sensor fusion
 Commit at 2025-03-21T18:12:28: Implement new optimization algorithm
+Commit at 2025-03-21T15:17:26: Add support for new model architectures
