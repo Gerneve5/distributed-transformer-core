@@ -159,3 +159,4 @@ Commit at 2025-04-01T14:22:22: Add support for new model architectures
 Commit at 2025-04-02T15:13:28: Update documentation and examples
 Commit at 2025-04-02T17:16:26: Update dependencies
 Commit at 2025-04-03T10:39:47: Add unit tests for new features
+Commit at 2025-04-03T09:03:49: Refactor core logic for better performance
