@@ -272,3 +272,4 @@ Commit at 2025-07-24T09:08:01: Fix minor bug in data processing
 Commit at 2025-07-24T11:35:36: Clean up code and remove unused imports
 Commit at 2025-07-25T12:22:39: Refactor training loop
 Commit at 2025-07-25T16:56:09: Update dependencies
+Commit at 2025-07-28T11:18:16: Refactor core logic for better performance
