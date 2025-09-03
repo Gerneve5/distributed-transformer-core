@@ -317,3 +317,4 @@ Commit at 2025-08-28T09:53:07: Refactor training loop
 Commit at 2025-08-28T17:14:13: Optimize memory usage
 Commit at 2025-09-02T11:50:44: Add support for new model architectures
 Commit at 2025-09-03T13:48:57: Update documentation and examples
+Commit at 2025-09-03T12:59:09: Improve error handling
